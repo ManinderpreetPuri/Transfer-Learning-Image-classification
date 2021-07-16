@@ -1,0 +1,2 @@
+# Transfer-Learning-Image-classification
+In  this project we build an image classification neural network to solve the problem of categorizing 400 images ( 100 photos each of buffalo, elephants, rhinos and zebras) of wild animals. This way, we should be able to just label 10 images of each animal and let a classifier sort out the rest.  In this notebook we'll perform this task, and see how transfer learning help us along the way.
